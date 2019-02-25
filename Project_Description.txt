@@ -1,0 +1,10 @@
+Analysis of Top Colleges
+
+*Sentiment Analysis is the classification of the polarity of a given text in the document,sentence or phrase.
+ The goal is to determine whether the expressed opinion in the text is positive , negative or neutral.
+
+*Social Media has captured the attention of the entire world as it is thundering fast in sending thoughts across the globe,
+ user friendly and free of cost requiring only a working internet connection.Twitter is one such well known micro-blogging site,
+ existing system perform sentiment analysis of people’s opinions regarding top colleges in India.
+ Existing system used Naïve Bayes,SVM and ANN  for finding top colleges from the twitter data.
+ In proposed System various Algorithms such as SVM,CNN,KNN,Decision Tree  etc will be used and compare the efficiency of various algorithms. 
